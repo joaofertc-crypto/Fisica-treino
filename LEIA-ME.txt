@@ -1,0 +1,21 @@
+FÍSICA N2 — LABORATÓRIO DE ESTUDOS
+
+1. Extraia o arquivo ZIP.
+2. Abra index.html no navegador (Chrome, Firefox, Edge, etc.).
+3. Comece em Fórmulas e conversões e depois acesse Questões do PDF.
+4. Acerte todos os itens de uma questão numérica para liberar "Gerar novos valores".
+5. Seu progresso é salvo no localStorage do navegador (não sincroniza entre dispositivos).
+
+ARQUIVOS
+- index.html: estrutura da página
+- style.css: aparência responsiva
+- script.js: questões, correção e geração de novos valores
+
+NOTAS
+- As 20 questões são baseadas na lista original da USF, com todos os subitens representados.
+- As perguntas teóricas foram adaptadas para múltipla escolha para permitir correção automática.
+- As perguntas numéricas têm a mesma estrutura, com novos valores quando liberadas.
+- O sistema aceita vírgula decimal, ponto decimal e notação científica (ex.: 1,4e10).
+- A tolerância numérica é de 0,5% para permitir arredondamento.
+- Os cálculos usam o modelo idealizado dos enunciados.
+- Para usar sem internet, a fonte personalizada pode ser substituída pela fonte local do dispositivo.
